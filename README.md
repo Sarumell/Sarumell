@@ -1,7 +1,7 @@
 ## OII Eu sou o Samuel!!
 
-- 📚 Atualmente estou estudando para trabalhar com front-end.
-- 📰 Em breve publicarei masi projetos.
+- 📚 Atualmente estou estudando Análise e desenvolvimento de sistemas
+- 📰 Em breve publicarei mais projetos.
 
 
 <div align="center">
