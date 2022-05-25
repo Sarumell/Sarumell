@@ -1,7 +1,8 @@
-## OII Eu sou o Samuel!!
+## Olá, me chamo Samuel!!
 
-- 📚 Atualmente estou estudando Análise e desenvolvimento de sistemas
-- 📰 Em breve publicarei mais projetos.
+- 📚 Estudante de Análise e desenvolvimento de sistemas
+- 📰 Publicando meu progresso
+
 
 
 <div align="center">
