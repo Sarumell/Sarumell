@@ -1,5 +1,3 @@
-## Olá, me chamo Samuel!!
-
 - 📚 Análise e desenvolvimento de sistemas
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40"/>
@@ -13,6 +11,4 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarumell&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- 
-   ![Snake animation](https://github.com/Sarumell/Sarumell/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/Sarumell/Sarumell/blob/output/github-contribution-grid-snake.svg)
